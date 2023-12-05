@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Rock Paper Scissors</string>
+    <string name="signature">Application Developed By Jeremiah Osborne</string>
+    <string name="stats">Wins: {wins}\nLosses: {losses}\nWin Rate: {rate}%  \n\nTimes Played: {played}</string>
+    <string name="aiText">AI Opponent</string>
+    <string name="playerWin">You Win!</string>
+    <string name="aiWin">AI Wins!</string>
+    <string name="tie">"It's A Tie!"</string>
+    <string name="aiThrow">AI Threw a {throw}!</string>
+    <string name="playerThrow">You Threw a {throw}!</string>
+    <string name="aiName">AI Opponent</string>
+    <string name="playerMove">Make Your Move!</string>
+    <string name="reset">Reset</string>
+    <string name="confirm">Are You Sure?</string>
+    <string name="title_activity_confirm">Confirm</string>
+    <string name="shoot">Shoot!</string>
+</resources>
